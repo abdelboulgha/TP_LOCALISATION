@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP_LOCALISATION</string>
+    <string name="google_maps_key" translatable="false" templateMergeStrategy="preserve">AIzaSyDLDezgXlCq4FYBfwDwQly4URreS5eOxgg</string>
+    <string name="new_location">New location: Lat: %1$f, Long: %2$f, Alt: %3$f, Accuracy: %4$f</string>
+</resources>
